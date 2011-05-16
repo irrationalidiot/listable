@@ -1,0 +1,4 @@
+= Listable
+
+A list management system that helps busy people track, prioritize and categorize lists of things.
+Unlike other solutions, Listable is simple, flexible and easy to access from many devices.
