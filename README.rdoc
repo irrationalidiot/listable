@@ -3,7 +3,7 @@
 A list management system that helps busy people track, prioritize and categorize lists of things.
 Unlike other solutions, Listable is simple, flexible and easy to access from many devices.
 
-== Why build a todo list application?
+== Why build another list application?
 We need one. Although there are numerous list applications available, none of them quite meet our needs. They are either
 available on only one platform, specific to a certain type of list or way too complex. Many of those available on
 multiple platforms use data synchronization as the primary means for keeping things up-to-date.
@@ -11,8 +11,9 @@ multiple platforms use data synchronization as the primary means for keeping thi
 == What technologies, tools and services will be used?
 
 * rails 3
+* rspec
+* cucumber
 * haml
 * sass
 * jquery
-* rspec
-* cucumber
+* devise
